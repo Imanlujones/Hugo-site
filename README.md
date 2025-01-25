@@ -1,2 +1,2 @@
 # Hugo-site
-A collection of website created for fun
+A collection of websites created for fun
